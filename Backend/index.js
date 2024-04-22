@@ -38,7 +38,7 @@ app.post('/admin/add',  (req, res) => {
   catch(err){
     console.error('Error reading file:', err);
   }
-
+  res.json({ path: respath });
   res.json({ message: 'FAQ entry added successfully' });
 });
 
