@@ -51,6 +51,6 @@ app.post('/admin/add',  (req, res) => {
   res.json({ message: 'FAQ entry added successfully' });
 });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+app.listen( () => {
+  console.log(`Server is running`);
 });
