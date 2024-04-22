@@ -1,186 +1,180 @@
 [
   {
-    "Questions": "Operating System - Can I install Windows (7, 10, 11 , Pro) on Chromebook? / Is windows supported? / Can I replace Chrome OS with Windows?",
-    "Answers": "No",
-    "Remarks": "Chromebooks run ChromeOS, and it is not possible to install Windows on Chromebooks. There are limited options using Linux apps through apps like Wine but performance may vary, and is not easy to setup. In Enterprise there are virtulisation options such as Cameyo and Citrix. ",
-    "Links": "https://www.youtube.com/watch?v=OXaHt9pZCa8\n https://www.youtube.com/watch?v=LwVX42Amcak",
-    "Follow-up": "Can any other OS be installed on Chromebooks?"
+      "Questions": "Operating System - Can I install Windows (7, 10, 11 , Pro) on Chromebook? / Is windows supported? / Can I replace Chrome OS with Windows?",
+      "Answers": "No",
+      "Remarks": "Chromebooks run ChromeOS, and it is not possible to install Windows on Chromebooks. There are limited options using Linux apps through apps like Wine but performance may vary, and is not easy to setup. In Enterprise there are virtulisation options such as Cameyo and Citrix. ",
+      "Links": "https://www.youtube.com/watch?v=OXaHt9pZCa8\n https://www.youtube.com/watch?v=LwVX42Amcak",
+      "Follow-up": "Can any other OS be installed on Chromebooks?"
   },
   {
-    "Questions": "App Ecosystem - Which apps are supported? / Can I run android apps? / How to download apps?",
-    "Answers": "Chromebook runs tons of apps",
-    "Remarks": "Web Apps: Chromebooks come pre-installed with quick access to powerful web apps like Gmail, Docs, Sheets and Slides. Many other applications are available via the web e.g. Canva, Adobe Express etc\nAndroid Apps: Chromebooks support the Google Play Store, the largest app store in the world. Explore Google Play to download the apps and games you can’t live without. Streaming apps like Netflix, productivity picks like Zoom and Evernote, and creative powerhouses like Adobe Lightroom are just a click away.\nLinux Apps: Chromebooks can also install apps from the Linux environment, although this requires a basic understanding of Terminal commands. Apps can be installed through the open source Distro environment using the Debian infrastrucure. Naturally this is not a consumer facing feature, and hence is why it is housed within the Developer area in Settings. ",
-    "Links": " https://www.youtube.com/watch?v=Fc-WpGvBkLo\n https://chromeos.dev/en/android?gclid=CjwKCAiA29auBhBxEiwAnKcSqnrU4Truavv0ZmPV8hFqU-9qhnhKjPrumgx-1-RHBb39Qv9qY5SWNxoCMMUQAvD_BwE",
-    "Follow-up": "Can customer port an app from windows laptop to chromebook (Specifically of .exe files/windows app file format)? \nDo App usage requirs Internet connection?  "
+      "Questions": "App Ecosystem - Which apps are supported? / Can I run android apps? / How to download apps?",
+      "Answers": "Chromebook runs tons of apps",
+      "Remarks": "Web Apps: Chromebooks come pre-installed with quick access to powerful web apps like Gmail, Docs, Sheets and Slides. Many other applications are available via the web e.g. Canva, Adobe Express etc\nAndroid Apps: Chromebooks support the Google Play Store, the largest app store in the world. Explore Google Play to download the apps and games you can’t live without. Streaming apps like Netflix, productivity picks like Zoom and Evernote, and creative powerhouses like Adobe Lightroom are just a click away.\nLinux Apps: Chromebooks can also install apps from the Linux environment, although this requires a basic understanding of Terminal commands. Apps can be installed through the open source Distro environment using the Debian infrastrucure. Naturally this is not a consumer facing feature, and hence is why it is housed within the Developer area in Settings. ",
+      "Links": " https://www.youtube.com/watch?v=Fc-WpGvBkLo\n https://chromeos.dev/en/android?gclid=CjwKCAiA29auBhBxEiwAnKcSqnrU4Truavv0ZmPV8hFqU-9qhnhKjPrumgx-1-RHBb39Qv9qY5SWNxoCMMUQAvD_BwE",
+      "Follow-up": "Can customer port an app from windows laptop to chromebook (Specifically of .exe files/windows app file format)? \nDo App usage requirs Internet connection?  "
   },
   {
-    "Questions": "Office Suite - Can I use MS Office/ Does it have Pre-installed MS Office",
-    "Answers": "Yes you can use office, \nhowever its not preinstalled",
-    "Remarks": "Customers can access the new powerful web apps from office.com and now it’s even easier to open and edit Microsoft® Word, Excel®, and PowerPoint® files on your Chromebook using the Microsoft 365 app with the new OneDrive integration.* The app seamlessly connects Microsoft OneDrive to your Chromebook’s Files app, so you can continue working on existing projects or start brand new ones. To get started, just select the Microsoft 365 file you want to open and you’ll be guided through the quick and easy setup process.",
-    "Links": "https://www.youtube.com/watch?v=c-4Z2jqq4t0",
-    "Follow-up": "1) Do customers needs to pay or subscribe for Microsoft M365 App? Or it is free with Chromebook?  2) Do these apps work only online or they work Online + Offline?\n3) As M365 is not preinstall, How can customers install it on Chromebooks? "
+      "Questions": "Office Suite - Can I use MS Office/ Does it have Pre-installed MS Office",
+      "Answers": "Yes you can use office, \nhowever its not preinstalled",
+      "Remarks": "Customers can access the new powerful web apps from office.com and now it’s even easier to open and edit Microsoft® Word, Excel®, and PowerPoint® files on your Chromebook using the Microsoft 365 app with the new OneDrive integration.* The app seamlessly connects Microsoft OneDrive to your Chromebook’s Files app, so you can continue working on existing projects or start brand new ones. To get started, just select the Microsoft 365 file you want to open and you’ll be guided through the quick and easy setup process.",
+      "Links": "https://www.youtube.com/watch?v=c-4Z2jqq4t0",
+      "Follow-up": "1) Do customers needs to pay or subscribe for Microsoft M365 App? Or it is free with Chromebook?  2) Do these apps work only online or they work Online + Offline?\n3) As M365 is not preinstall, How can customers install it on Chromebooks? "
   },
   {
-    "Questions": "Non-gaming Usecase - Can I use it for Coding / Tally/ Office work/ Studies /Trading/ Photoshop?",
-    "Answers": "Majorly yes ",
-    "Remarks": "Coding : Chromebooks can access many powerful coding environments in the web or through Linux apps like Git, Visual Studio Code, Android Studio\n\nTally: Tally isn't compatible with Chromebooks.\n\noffice work : See answer above\n\nStudies: Chromebooks are a great choice for basic studies and online learning due to their affordability, portability, long battery life, cloud-based nature, Google Workspace integration, and Android apps\n\nPhotoshop: Adobe recently released a powerful AI enabled web version of Photoshop accessible directly in your browser. It is recommended to be used on Chromebook Plus devices due to its minumum spec requirements. Chromebook Plus customers get an exclusive trial for 3 months to test it out from chromebooks.com/perks",
-    "Links": "http://chromebooks.com/perks",
-    "__EMPTY_4": "List down the common usecases for office work? "
+      "Questions": "Non-gaming Usecase - Can I use it for Coding / Tally/ Office work/ Studies /Trading/ Photoshop?",
+      "Answers": "Majorly yes ",
+      "Remarks": "Coding : Chromebooks can access many powerful coding environments in the web or through Linux apps like Git, Visual Studio Code, Android Studio\n\nTally: Tally isn't compatible with Chromebooks.\n\noffice work : See answer above\n\nStudies: Chromebooks are a great choice for basic studies and online learning due to their affordability, portability, long battery life, cloud-based nature, Google Workspace integration, and Android apps\n\nPhotoshop: Adobe recently released a powerful AI enabled web version of Photoshop accessible directly in your browser. It is recommended to be used on Chromebook Plus devices due to its minumum spec requirements. Chromebook Plus customers get an exclusive trial for 3 months to test it out from chromebooks.com/perks",
+      "Links": "http://chromebooks.com/perks",
+      "__EMPTY_4": "List down the common usecases for office work? "
   },
   {
-    "Questions": "Gaming usecase - Can it be used for gaming? / What type of games can I play (Entry, intermediate, Advance)?",
-    "Answers": "Yes",
-    "Remarks": "Gaming on Chromebooks in India is possible, but limited!\n Cloud Gaming: There are many cloud gaming platforms that run perfectly on Chromebooks such as NVIDIA GeForce Now, Xbox Game Pass and Boosteroid. However most of these are not supported in India due to data server locations. In other countries there are dedicated Cloud Gaming Chromebooks that have spec to give cloud gaming customers the best experience. Currently these are not available in India.\nAndroid Games: Chromebooks also have access to the Play Store for popular apps such as Minecraft and Roblox. As with all computers different models with give better performance to more demanding games.",
-    "Follow-up": "Is chromebook compatible with Jio cloud gaming?"
+      "Questions": "Gaming usecase - Can it be used for gaming? / What type of games can I play (Entry, intermediate, Advance)?",
+      "Answers": "Yes",
+      "Remarks": "Gaming on Chromebooks in India is possible, but limited!\n Cloud Gaming: There are many cloud gaming platforms that run perfectly on Chromebooks such as NVIDIA GeForce Now, Xbox Game Pass and Boosteroid. However most of these are not supported in India due to data server locations. In other countries there are dedicated Cloud Gaming Chromebooks that have spec to give cloud gaming customers the best experience. Currently these are not available in India.\nAndroid Games: Chromebooks also have access to the Play Store for popular apps such as Minecraft and Roblox. As with all computers different models with give better performance to more demanding games.",
+      "Follow-up": "Is chromebook compatible with Jio cloud gaming?"
   },
   {
-    "Questions": "Display - What is the type of Display - LCD, LED, Full HD / Touch, 360, Convertible, Foldable?",
-    "Remarks": "Chromebooks come in a variety of display types, offering different features and price points to suit various needs. \nLCD, LED, FHD, HD & Even different form factors like: Convertable, Detachable, Clamshell"
+      "Questions": "Display - What is the type of Display - LCD, LED, Full HD / Touch, 360, Convertible, Foldable?",
+      "Remarks": "Chromebooks come in a variety of display types, offering different features and price points to suit various needs. \nLCD, LED, FHD, HD & Even different form factors like: Convertable, Detachable, Clamshell"
   },
   {
-    "Questions": "Port Connectivity - Can I connect Mouse/Keyboard/Projector/Printer/Stylus Pen/TV - (Type C, HDMI, USB)",
-    "Answers": "Yes",
-    "Remarks": "As with all computers port availability varies, but most will support USB-A, USB-C, HDMI etc There are many accessories available from a wide variety of manufacturers for accessories such as monitors, mice, keyboards, headphones, webcams and printers. There is also an accessory certification program called Works with Chromebook - see more information here: https://www.google.com/chromebook/workswithchromebook/",
-    "Links": "https://www.google.com/chromebook/workswithchromebook/"
+      "Questions": "Port Connectivity - Can I connect Mouse/Keyboard/Projector/Printer/Stylus Pen/TV - (Type C, HDMI, USB)",
+      "Answers": "Yes",
+      "Remarks": "As with all computers port availability varies, but most will support USB-A, USB-C, HDMI etc There are many accessories available from a wide variety of manufacturers for accessories such as monitors, mice, keyboards, headphones, webcams and printers. There is also an accessory certification program called Works with Chromebook - see more information here: https://www.google.com/chromebook/workswithchromebook/",
+      "Links": "https://www.google.com/chromebook/workswithchromebook/"
   },
   {
-    "Questions": "Network Connectivity - Can I connect Bluetooth, Wifi, 5G, LAN?",
-    "Answers": "Majorly Yes",
-    "Remarks": "There are a wide variety of connectivity options on Chromebook. All Chromebooks come with varried support for WiFI - many of them supporting Wi-Fi 5 and 6. It is relatively rare to find a Chromebook with an ethernet port due to a focus on making thin and lightweight devices - but customers can easily get a USB-C to Ethernet adaptor. Chromebooks with 4G and 5G Sim cards are rare, but they are available globally. However most customers love the simple one-click access to their Android phones through Phone Hub - a unique benefit to Android customers on Chromebook. But iPhone customers can still enable Personal hotspot and connect their Chromebook to it."
+      "Questions": "Network Connectivity - Can I connect Bluetooth, Wifi, 5G, LAN?",
+      "Answers": "Majorly Yes",
+      "Remarks": "There are a wide variety of connectivity options on Chromebook. All Chromebooks come with varried support for WiFI - many of them supporting Wi-Fi 5 and 6. It is relatively rare to find a Chromebook with an ethernet port due to a focus on making thin and lightweight devices - but customers can easily get a USB-C to Ethernet adaptor. Chromebooks with 4G and 5G Sim cards are rare, but they are available globally. However most customers love the simple one-click access to their Android phones through Phone Hub - a unique benefit to Android customers on Chromebook. But iPhone customers can still enable Personal hotspot and connect their Chromebook to it."
   },
   {
-    "Questions": "Storage - Does it support External HDD/ Micro SD card (500GB or 1TB) / Can I expand the storage?",
-    "Answers": "Yes",
-    "Remarks": "Yes! Chromebook storage is expandable with the help of External HDDs or micro SD card class 10 or above. There are even Works with Chromebook supported hard drives from Western Digital - for more information see here - https://www.westerndigital.com/en-gb/solutions/works-with-chromebook#:~:text=The%20portable%20WD%20My%20Passport,to%20sync%20with%20your%20Chromebook.",
-    "Links": "https://www.westerndigital.com/en-gb/solutions/works-with-chromebook#:~:text=The%20portable%20WD%20My%20Passport,to%20sync%20with%20your%20Chromebook."
+      "Questions": "Storage - Does it support External HDD/ Micro SD card (500GB or 1TB) / Can I expand the storage?",
+      "Answers": "Yes",
+      "Remarks": "Yes! Chromebook storage is expandable with the help of External HDDs or micro SD card class 10 or above. There are even Works with Chromebook supported hard drives from Western Digital - for more information see here - https://www.westerndigital.com/en-gb/solutions/works-with-chromebook#:~:text=The%20portable%20WD%20My%20Passport,to%20sync%20with%20your%20Chromebook.",
+      "Links": "https://www.westerndigital.com/en-gb/solutions/works-with-chromebook#:~:text=The%20portable%20WD%20My%20Passport,to%20sync%20with%20your%20Chromebook."
   },
   {
-    "Questions": "Processor - What is Processor Generation",
-    "Answers": "AMD/ Intel/ Mediatek",
-    "Remarks": "Different devices have different processors, we have 2 categories of chromebooks:\n1. Chromebook: which can have Intel Celeron or Intel Pentium. Other SOCs make processors for Chromebook such as Qualcomm Snapdragon and MediaTek\n2. Chromebook Plus: Our devices for customers who want to do more - which have a minimum requirement of Intel Core i3/i5/i7 or AMD ryzen 3/5/7"
+      "Questions": "Processor - What is Processor Generation",
+      "Answers": "AMD/ Intel/ Mediatek",
+      "Remarks": "Different devices have different processors, we have 2 categories of chromebooks:\n1. Chromebook: which can have Intel Celeron or Intel Pentium. Other SOCs make processors for Chromebook such as Qualcomm Snapdragon and MediaTek\n2. Chromebook Plus: Our devices for customers who want to do more - which have a minimum requirement of Intel Core i3/i5/i7 or AMD ryzen 3/5/7"
   },
   {
-    "Questions": "Battery - What is the battery back up?",
-    "Answers": "Average 10 hours",
-    "Remarks": "As with all computers battery life varies from model to model, but due to a cloud first approach and a lightweight but powerful OS - customers can on average expect around 10 hours of battery life from their Chromebook. As ever this can vary widely dependant on use cases and many many factors!"
+      "Questions": "Battery - What is the battery back up?",
+      "Answers": "Average 10 hours",
+      "Remarks": "As with all computers battery life varies from model to model, but due to a cloud first approach and a lightweight but powerful OS - customers can on average expect around 10 hours of battery life from their Chromebook. As ever this can vary widely dependant on use cases and many many factors!"
   },
   {
-    "Questions": "Warranty - What is the warranty period?/How to register for warranty?/ How to avail warranty?",
-    "Answers": "1 year",
-    "Remarks": "The warranty period for Chromebooks typically varies between 1 and 2 years, depending on the manufacturer and specific model."
+      "Questions": "Warranty - What is the warranty period?/How to register for warranty?/ How to avail warranty?",
+      "Answers": "1 year",
+      "Remarks": "The warranty period for Chromebooks typically varies between 1 and 2 years, depending on the manufacturer and specific model."
   },
   {
-    "Questions": "What's in the Box - Is charger included with the laptop?",
-    "Answers": "User manual,charger & device\nsome also come with stylus ",
-    "Remarks": "All Chromebooks come with a charger, and some models may come with a stylus, dependant on the OEM spec"
+      "Questions": "What's in the Box - Is charger included with the laptop?",
+      "Answers": "User manual,charger & device\nsome also come with stylus ",
+      "Remarks": "All Chromebooks come with a charger, and some models may come with a stylus, dependant on the OEM spec"
   },
   {
-    "Questions": "How to enable Caps lock in chromebook?",
-    "Answers": "Alt+ Everything Button",
-    "Remarks": "It works with all the chromebooks"
+      "Questions": "How to enable Caps lock in chromebook?",
+      "Answers": "Alt+ Everything Button",
+      "Remarks": "It works with all the chromebooks"
   },
   {
-    "Questions": "Is there any cost involved with google workspace, like M365?",
-    "Answers": "No",
-    "Remarks": "Google workspace is free of cost, there is no lisence that user needs to buy for workspace like lisences with M365"
+      "Questions": "Is there any cost involved with google workspace, like M365?",
+      "Answers": "No",
+      "Remarks": "Google workspace is free of cost, there is no lisence that user needs to buy for workspace like lisences with M365"
   },
   {
-    "Questions": "Can I do everything I need on a Chromebook?",
-    "Answers": "Yes",
-    "Remarks": "Chromebooks come with the apps you need for work and play. You can get productive with apps like Microsoft® Office, get creative with apps like Adobe Lightroom, and kick back with apps like Netflix—or your favorite PC, console, and mobile games."
+      "Questions": "Can I do everything I need on a Chromebook?",
+      "Answers": "Yes",
+      "Remarks": "Chromebooks come with the apps you need for work and play. You can get productive with apps like Microsoft® Office, get creative with apps like Adobe Lightroom, and kick back with apps like Netflix—or your favorite PC, console, and mobile games."
   },
   {
-    "Questions": "Are Chromebooks secure?",
-    "Answers": "Yes",
-    "Remarks": "Every Chromebook comes with built-in security protection so you’re safe from the moment you open your new Chromebook. ChromeOS also comes with multiple layers of security and updates without interruption."
+      "Questions": "Are Chromebooks secure?",
+      "Answers": "Yes",
+      "Remarks": "Every Chromebook comes with built-in security protection so you’re safe from the moment you open your new Chromebook. ChromeOS also comes with multiple layers of security and updates without interruption."
   },
   {
-    "Questions": "How to check if there is any update pending on chromebook",
-    "Answers": "Happens Automatically",
-    "Remarks": "Normally chromebook updates happen by itself, however you can also check for updates",
-    "Links": "To check for an update:\nTurn on your Chromebook.\nConnect your Chromebook to Wi-Fi.\nAt the bottom right, select the timeand then Settings .\nAt the bottom left, select About ChromeOS.\nUnder \"Google ChromeOS,\" find which version of the Chrome operating system your Chromebook uses.\nSelect Check for updates.\nIf your Chromebook finds a software update, it will start to download automatically."
+      "Questions": "How to check if there is any update pending on chromebook",
+      "Answers": "Happens Automatically",
+      "Remarks": "Normally chromebook updates happen by itself, however you can also check for updates.\n Steps:- \n To check for an update:\nTurn on your Chromebook.\nConnect your Chromebook to Wi-Fi.\nAt the bottom right, select the timeand then Settings .\nAt the bottom left, select About ChromeOS.\nUnder \"Google ChromeOS,\" find which version of the Chrome operating system your Chromebook uses.\nSelect Check for updates.\nIf your Chromebook finds a software update, it will start to download automatically."
   },
   {
-    "Questions": "How to connect chromebook to WIFI",
-    "Answers": "From the bottom right of the shelf",
-    "Remarks": "At the bottom right, select the time.\nSelect Not Connected .\nNote: If you see your Wi-Fi network name and a signal strength, your Chromebook is already connected to Wi-Fi.\nTurn on Wi-Fi. \nYour Chromebook will automatically look for available networks and show them to you in a list."
+      "Questions": "How to connect chromebook to WIFI",
+      "Answers": "From the bottom right of the shelf",
+      "Remarks": "At the bottom right, select the time.\nSelect Not Connected .\nNote: If you see your Wi-Fi network name and a signal strength, your Chromebook is already connected to Wi-Fi.\nTurn on Wi-Fi. \nYour Chromebook will automatically look for available networks and show them to you in a list."
   },
   {
-    "Questions": "How to setup Printer with chromebook?",
-    "Remarks": "You can print from your Chromebook with most printers that connect to Wi-Fi or a wired network. Currently, Chromebooks don't support Bluetooth printing. ",
-    "Links": "Step 1: Connect to the internet\nImportant: Your printer and Chromebook must be connected to the same network.\n\nTurn on your printer.\nConnect your printer to the network. If you need help, follow your printer manufacturer’s instructions.\nIf you haven’t yet, turn on your Chromebook and sign in.\nConnect your Chromebook to the same network as your printer.\n\nStep 2: Print a page\nTo print the page, image, or document you’re viewing, press Ctrl + p.\nNext to \"Destination,\" select the Down arrow .\nSelect See more...\nChoose your printer.\nSome printers listed in the drop down menu may not be compatible with your Chromebook. When you select your printer, your Chromebook does a compatibility check.\nIf you can’t find your printer on the list, select Manage.\nSelect Print.\n\n",
-    "Follow-up": "Compatable Printers:\n https://support.google.com/chromebook/answer/12403345?sjid=10944740414940257219-AP"
+      "Questions": "How to setup Printer with chromebook?",
+      "Remarks": "You can print from your Chromebook with most printers that connect to Wi-Fi or a wired network. Currently, Chromebooks don't support Bluetooth printing. \n Step 1: Connect to the internet\nImportant: Your printer and Chromebook must be connected to the same network.\n\nTurn on your printer.\nConnect your printer to the network. If you need help, follow your printer manufacturer’s instructions.\nIf you haven’t yet, turn on your Chromebook and sign in.\nConnect your Chromebook to the same network as your printer.\n\nStep 2: Print a page\nTo print the page, image, or document you’re viewing, press Ctrl + p.\nNext to \"Destination,\" select the Down arrow .\nSelect See more...\nChoose your printer.\nSome printers listed in the drop down menu may not be compatible with your Chromebook. When you select your printer, your Chromebook does a compatibility check.\nIf you can’t find your printer on the list, select Manage.\nSelect Print.\n\n",
+      "Follow-up": "Compatable Printers:\n https://support.google.com/chromebook/answer/12403345?sjid=10944740414940257219-AP"
   },
   {
-    "Questions": "Can i use chromebook without internet?",
-    "Answers": "Yes",
-    "Remarks": "Even if you’re not connected to the Internet, you can still do lots of things with your Chromebook.\n\nCheck your email\nYou can read, respond to, and search your Gmail messages even when you aren't connected to the Internet by visiting mail.google.com.\nand setting up offline mails\nPlay movies, music, or games which are downloaded\nor even work on google workspace, like slides, sheets and doc if all is downloaded.",
-    "Links": "In chromebook plus all files are automatically saved for online access  "
+      "Questions": "Can i use chromebook without internet?",
+      "Answers": "Yes",
+      "Remarks": "Even if you're not connected to the Internet, you can still do lots of things with your Chromebook.\n\nCheck your email\nYou can read, respond to, and search your Gmail messages even when you aren't connected to the Internet by visiting mail.google.com.\nand setting up offline mails\nPlay movies, music, or games which are downloaded\nor even work on google workspace, like slides, sheets and doc if all is downloaded."
   },
   {
-    "Questions": "How to i check and respond to emails while i am offline?",
-    "Remarks": "Check your email\nYou can read, respond to, and search your Gmail messages even when you aren't connected to the Internet by visiting mail.google.com. To set it up:\n\nOpen Chrome Chrome. Important: Gmail offline will not work in Incognito mode.\nGo to Gmail offline settings.\nCheck \"Enable offline mail.\"\nChoose your settings, such as how many days of messages you want to sync.\nSelect Save changes.\nTo use Gmail when you’re not connected to the Internet, go to mail.google.com.\nImportant: When you send emails offline, your email goes into a new \"Outbox\" folder and gets sent as soon as you go back online."
+      "Questions": "How to i check and respond to emails while i am offline?",
+      "Remarks": "Check your email\nYou can read, respond to, and search your Gmail messages even when you aren't connected to the Internet by visiting mail.google.com. To set it up:\n\nOpen Chrome Chrome. Important: Gmail offline will not work in Incognito mode.\nGo to Gmail offline settings.\nCheck \"Enable offline mail.\"\nChoose your settings, such as how many days of messages you want to sync.\nSelect Save changes.\nTo use Gmail when you’re not connected to the Internet, go to mail.google.com.\nImportant: When you send emails offline, your email goes into a new \"Outbox\" folder and gets sent as soon as you go back online."
   },
   {
-    "Questions": "What is Family Link in chromebook?",
-    "Answers": "Its Parent control app",
-    "Remarks": "You can use Family Link to manage your child's Google account, you can let them sign in to some Google services on their Chromebook. You can also use the Family Link app to choose what websites your child can access using Chrome, supervise your child's app usage, and more.",
-    "Links": "Advantages:\nChildren can't browse in private.\n\nYou can manage which websites children can visit and limit their ability to grant permissions to websites.\n\nYou can set Chrome to block most sexually explicit and violent sites\n.\nYour child's Google Activity controls may allow Google to use Chrome browsing history and activity from websites to personalize your child’s experience across Google products and services. \nHowever, this info won't be used to personalize ads for children under 13 (or the applicable age in your country)"
+      "Questions": "What is Family Link in chromebook?",
+      "Answers": "Its Parent control app",
+      "Remarks": "You can use Family Link to manage your child's Google account, you can let them sign in to some Google services on their Chromebook. You can also use the Family Link app to choose what websites your child can access using Chrome, supervise your child's app usage, and more.\n Advantages:\nChildren can't browse in private.\n\nYou can manage which websites children can visit and limit their ability to grant permissions to websites.\n\nYou can set Chrome to block most sexually explicit and violent sites\n.\nYour child's Google Activity controls may allow Google to use Chrome browsing history and activity from websites to personalize your child’s experience across Google products and services. \nHowever, this info won't be used to personalize ads for children under 13 (or the applicable age in your country)"
   },
   {
-    "Questions": "How to enable Family link  on chromebook?",
-    "Remarks": "Setting up family link is simple:\n\nOpen the Family Link app .\nSelect your child's profile\nTap Controls Content restrictions. Google Chrome.\nChoose the setting that's right for your family: Allow all sites: Your child will be able to visit all sites, except the ones you block."
+      "Questions": "How to enable Family link  on chromebook?",
+      "Remarks": "Setting up family link is simple:\n\nOpen the Family Link app .\nSelect your child's profile\nTap Controls Content restrictions. Google Chrome.\nChoose the setting that's right for your family: Allow all sites: Your child will be able to visit all sites, except the ones you block."
   },
   {
-    "Questions": "How do i remove the account from chromebook?",
-    "Remarks": "If someone no longer uses your Chromebook regularly, you can remove their account.\n\n1.On the Chromebook sign-in screen, select the profile you want to remove.\n2.Next to the profile name, select the Down arrow .\n3.Select Remove this user.\n4.In the box that appears, select Remove this user.\n\nWhen you remove an account, it’s only removed from the Chromebook. The Google Account itself, including its data and settings, will still exist."
+      "Questions": "How do i remove the account from chromebook?",
+      "Remarks": "If someone no longer uses your Chromebook regularly, you can remove their account.\n\n1.On the Chromebook sign-in screen, select the profile you want to remove.\n2.Next to the profile name, select the Down arrow .\n3.Select Remove this user.\n4.In the box that appears, select Remove this user.\n\nWhen you remove an account, it’s only removed from the Chromebook. The Google Account itself, including its data and settings, will still exist."
   },
   {
-    "Questions": "Do Chromebooks come with enough storage?",
-    "Answers": "Yes",
-    "Remarks": "On your local drive & on the cloud, you can get the storage you need on a Chromebook. You can get a device with large local storage and you also get 100 GB of cloud storage on us for a year when you buy a new Chromebook."
+      "Questions": "Do Chromebooks come with enough storage?",
+      "Answers": "Yes",
+      "Remarks": "On your local drive & on the cloud, you can get the storage you need on a Chromebook. You can get a device with large local storage and you also get 100 GB of cloud storage on us for a year when you buy a new Chromebook."
   },
   {
-    "Questions": "Do android and chromebook work well togather?",
-    "Answers": "Yes",
-    "Remarks": "Your Chromebook and Android phone are designed to work well together. With Phone Hub you can manage phone settings and respond to messages right from your Chromebook. You can also unlock your laptop with just a tap, easily connect to hotspots and more."
+      "Questions": "Do android and chromebook work well togather?",
+      "Answers": "Yes",
+      "Remarks": "Your Chromebook and Android phone are designed to work well together. With Phone Hub you can manage phone settings and respond to messages right from your Chromebook. You can also unlock your laptop with just a tap, easily connect to hotspots and more."
   },
   {
-    "Questions": "What is the Everything Button?",
-    "Answers": "As the name suggests, its to search any file or app",
-    "Remarks": "All Chromebooks have the Everything Button. It’s one button to find your things fast. Press it to search Google, your Drive, apps, files, and more—all from one place. You may know this key by another name - the “Launcher” or “Search” button."
+      "Questions": "What is the Everything Button?",
+      "Answers": "As the name suggests, its to search any file or app",
+      "Remarks": "All Chromebooks have the Everything Button. It's one button to find your things fast. Press it to search Google, your Drive, apps, files, and more—all from one place. You may know this key by another name - the “Launcher” or “Search” button."
   },
   {
-    "Questions": "What are chromebook perks?",
-    "Answers": "Chromebook comes with Perks",
-    "Remarks": "Chromebook & Chromebook Plus come with perks:\nChromebook Plus: \n1. Get Photoshop on the web and Adobe Express Premium for 3 months at no cost, with Chromebook Plus.\n2. 100GB of cloud storage\n3. Get 3 months of YouTube Premium without charge\n\nChromebook:\n1. 100GB of cloud storage\n2. Get 3 months of YouTube Premium without charge",
-    "Links": "You can check out these perks at :\n http://chromebooks.com/perks"
+      "Questions": "What are chromebook perks?",
+      "Answers": "Chromebook comes with Perks",
+      "Remarks": "Chromebook & Chromebook Plus come with perks:\nChromebook Plus: \n1. Get Photoshop on the web and Adobe Express Premium for 3 months at no cost, with Chromebook Plus.\n2. 100GB of cloud storage\n3. Get 3 months of YouTube Premium without charge\n\nChromebook:\n1. 100GB of cloud storage\n2. Get 3 months of YouTube Premium without charge",
+      "Links": "You can check out these perks at :\n http://chromebooks.com/perks"
   },
   {
-    "Questions": "How do i change language of chromebook device?",
-    "Remarks": "Your Chromebook’s features, like settings and menus, use the language you chose when you first set up your device.\n\n1.At the bottom right, select the time.\n2.Select Settings  and then System Prefrence.\n3.In the \"Languages and inputs\" section, select Languages.\n4.To change your Chromebook's language, next to \"Device language,\" select Change.\n5.Type or choose your preferred language.\n6. Select Confirm and restart."
+      "Questions": "How do i change language of chromebook device?",
+      "Remarks": "Your Chromebook's features, like settings and menus, use the language you chose when you first set up your device.\n\n1.At the bottom right, select the time.\n2.Select Settings  and then System Prefrence.\n3.In the \"Languages and inputs\" section, select Languages.\n4.To change your Chromebook's language, next to \"Device language,\" select Change.\n5.Type or choose your preferred language.\n6. Select Confirm and restart."
   },
   {
-    "Questions": "How to change the keyboard layout?",
-    "Answers": "Diffrent keyboard Language",
-    "Remarks": "Chromebook offers wide range of languges for your keyboard inputs, this is how you can change:\n\n1.At the bottom right, select the time.\n2.Select Settings  and then Device.\n3. Select Keyboard & Inputs\n4. Scroll bottom to input settings\n5. Add input methood"
+      "Questions": "How to change the keyboard layout?",
+      "Answers": "Diffrent keyboard Language",
+      "Remarks": "Chromebook offers wide range of languges for your keyboard inputs, this is how you can change:\n\n1.At the bottom right, select the time.\n2.Select Settings  and then Device.\n3. Select Keyboard & Inputs\n4. Scroll bottom to input settings\n5. Add input methood"
   },
   {
-    "Questions": "How to take screenshot or record video on chromebook?",
-    "Remarks": "You can take a screenshot or record a video of your Chromebook's screen. \n\nTake a screenshot\n1. If your Chromebook has it, press the Screenshot key .\n2. If your Chromebook doesn't have a Screenshot key , press Shift + Ctrl + Show windows .\n3. If your external keyboard doesn't have a Show windows key , press Ctrl + Shift + F5.\n\nIn the menu at the bottom, select Screenshot .\n1. Select an option:\n2. Take a full screen screenshot .\n3. Take a partial screenshot .\n4. Take a window screenshot .\n\nRecord your screen\n1. Press Shift + Ctrl + Show windows .\n2. In the menu at the bottom, select Screen record .\n\nSelect an option:\n1.Record the full screen .\n2.Record a partial screen .\n3.Record a window .\n4.To stop recording, at the bottom right, select Stop recording \n\nAfter you capture your screen, you can view, edit, delete, and share the image or video.\nScreenshots and recordings are also automatically copied to your clipboard."
+      "Questions": "How to take screenshot or record video on chromebook?",
+      "Remarks": "You can take a screenshot or record a video of your Chromebook's screen. \n\nTake a screenshot\n1. If your Chromebook has it, press the Screenshot key .\n2. If your Chromebook doesn't have a Screenshot key , press Shift + Ctrl + Show windows .\n3. If your external keyboard doesn't have a Show windows key , press Ctrl + Shift + F5.\n\nIn the menu at the bottom, select Screenshot .\n1. Select an option:\n2. Take a full screen screenshot .\n3. Take a partial screenshot .\n4. Take a window screenshot .\n\nRecord your screen\n1. Press Shift + Ctrl + Show windows .\n2. In the menu at the bottom, select Screen record .\n\nSelect an option:\n1.Record the full screen .\n2.Record a partial screen .\n3.Record a window .\n4.To stop recording, at the bottom right, select Stop recording \n\nAfter you capture your screen, you can view, edit, delete, and share the image or video.\nScreenshots and recordings are also automatically copied to your clipboard."
   },
   {
-    "Questions": "What is Phone Hub?",
-    "Remarks": "You can use features on your phone from your Chromebook screen with Phone Hub. For example, you can check your phone notifications, find open tabs, and stream apps from your mobile Chrome browser on your Chromebook.",
-    "Links": "What is Needed:\nA Chromebook that runs Update 89 or later\nAn Android phone that runs Android 5.1 or later\n\n"
+      "Questions": "What is Phone Hub?",
+      "Remarks": "You can use features on your phone from your Chromebook screen with Phone Hub. For example, you can check your phone notifications, find open tabs, and stream apps from your mobile Chrome browser on your Chromebook."
   },
   {
-    "Questions": "How to setup Phone Hub?",
-    "Remarks": "To connect your phone to your Chromebook\n Important: Make sure that Bluetooth is turned on first. At the bottom right of your screen, select the time and turn on Bluetooth.\n\n1.On your Chromebook, at the bottom right, next to the time, select the Phone .\n2.Select Get Started.\n3.When prompted on your Chromebook, select Accept & continue.\n4.Under \"Connected devices\" next to \"Android phone,\" select Set up.\n5.To complete Phone Hub setup, follow the on-screen instructions. \n6.Select Done."
+      "Questions": "How to setup Phone Hub?",
+      "Remarks": "To connect your phone to your Chromebook\n Important: Make sure that Bluetooth is turned on first. At the bottom right of your screen, select the time and turn on Bluetooth.\n\n1.On your Chromebook, at the bottom right, next to the time, select the Phone .\n2.Select Get Started.\n3.When prompted on your Chromebook, select Accept & continue.\n4.Under \"Connected devices\" next to \"Android phone,\" select Set up.\n5.To complete Phone Hub setup, follow the on-screen instructions. \n6.Select Done.What is Needed:\nA Chromebook that runs Update 89 or later\nAn Android phone that runs Android 5.1 or later\n"
   },
   {
-    "Questions": "How to make files available offline?",
-    "Remarks": "Turn on offline settings\n 1.Go to your Google Drive Settings.\n 2.Scroll to \"Offline\" and check the box.\n3. It might take a few minutes for the offline access setting to turn on.\nTip: Your Chromebook automatically makes some of your recently opened files available offline.\n\nMake specific files & folders available offline\n1. Open the Files app .\n2. Select Google Drive Drive.\n3. Select the file or folder you want to use offline.\n4. At the top, turn on Available offline. \n5. To show that it’s available offline, a check mark appears next to the file or folder.\n\nTo make individual files unavailable offline:\n\n1. Open the Files app .\n2. Select Google Drive Drive.\n3. Select the file you want to no longer be available offline.\n4. At the top, turn off Available offline.\n"
+      "Questions": "How to make files available offline?",
+      "Remarks": "Turn on offline settings\n 1.Go to your Google Drive Settings.\n 2.Scroll to \"Offline\" and check the box.\n3. It might take a few minutes for the offline access setting to turn on.\nTip: Your Chromebook automatically makes some of your recently opened files available offline.\n\nMake specific files & folders available offline\n1. Open the Files app .\n2. Select Google Drive Drive.\n3. Select the file or folder you want to use offline.\n4. At the top, turn on Available offline. \n5. To show that it’s available offline, a check mark appears next to the file or folder.\n\nTo make individual files unavailable offline:\n\n1. Open the Files app .\n2. Select Google Drive Drive.\n3. Select the file you want to no longer be available offline.\n4. At the top, turn off Available offline.\n"
   }
-  
 ]
