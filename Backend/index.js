@@ -14,18 +14,6 @@ app.get('/', (req, res) => {
   res.json(faqData);
 });
 
-// const checkAdminCredentials = (req, res, next) => {
-//   const { username, password } = req.body;
-
-//   // Check if both username and password are correct
-//   if (username === 'parth' && password === 'atharv') {
-//     // If credentials are correct, proceed to the next middleware
-//     next();
-//   } else {
-//     // If credentials are incorrect, send a 403 Forbidden response
-//     res.status(403).json({ message: 'Invalid admin credentials' });
-//   }
-// };
 
 
 app.post('/admin/add',  (req, res) => {
@@ -33,7 +21,7 @@ app.post('/admin/add',  (req, res) => {
   
   let faqData = [];
   try {
-    const data = fs.readFileSync('faqData.json');
+    const data = fs.readFileSync('/vercel/path0/backend/faqData.json');
     faqData = JSON.parse(data);
   } catch (err) {
     console.error('Error reading file:', err);
@@ -42,7 +30,7 @@ app.post('/admin/add',  (req, res) => {
   faqData.push({ Questions, Answers, Remarks , Links });
   console.log(faqData);
   try{
-   const check  = fs.writeFileSync('faqData.json', JSON.stringify(faqData, null, 2));
+   const check  = fs.writeFileSync('/vercel/path0/backend/faqData.json', JSON.stringify(faqData, null, 2));
   }
   catch(err){
     console.error('Error reading file:', err);
