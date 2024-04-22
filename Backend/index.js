@@ -7,6 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const fs = require('fs');
 
+
 app.use(cors());
 app.use(express.json());
 // Route to serve FAQ data
@@ -18,10 +19,12 @@ app.get('/', (req, res) => {
 
 app.post('/admin/add',  (req, res) => {
   const { Questions, Answers , Remarks, Links } = req.body;
-  
+  const respath = path.join(process.cwd(), 'faqData.json');
+  console.log(respath);
   let faqData = [];
+
   try {
-    const data = fs.readFileSync('/vercel/path0/backend/faqData.json');
+    const data = fs.readFileSync(respath);
     faqData = JSON.parse(data);
   } catch (err) {
     console.error('Error reading file:', err);
@@ -30,7 +33,7 @@ app.post('/admin/add',  (req, res) => {
   faqData.push({ Questions, Answers, Remarks , Links });
   console.log(faqData);
   try{
-   const check  = fs.writeFileSync('/vercel/path0/backend/faqData.json', JSON.stringify(faqData, null, 2));
+   const check  = fs.writeFileSync(respath, JSON.stringify(faqData, null, 2));
   }
   catch(err){
     console.error('Error reading file:', err);
