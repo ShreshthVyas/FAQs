@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 
 app.post('/admin/add',  (req, res) => {
   const { Questions, Answers , Remarks, Links } = req.body;
-  const respath = path.join(process.cwd(), 'faqData.json');
+  const respath = path.join(process.cwd(), 'Backend/faqData.json');
   console.log(respath);
   let faqData = [];
 
